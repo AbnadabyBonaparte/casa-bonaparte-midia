@@ -1,0 +1,138 @@
+{
+ "canal_instagram_id": "6a47cd0f5ab6d2f1069e5761",
+ "organizacao_id": "6a47c88e7add101768cb7749",
+ "itens": [
+  {
+   "id": "kit01-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-15T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit01-s3.jpg"
+  },
+  {
+   "id": "kit02-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-16T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit02-s1.jpg"
+  },
+  {
+   "id": "kit02-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-16T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit02-s2.jpg"
+  },
+  {
+   "id": "kit02-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-16T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit02-s3.jpg"
+  },
+  {
+   "id": "kit03-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-17T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit03-s1.jpg"
+  },
+  {
+   "id": "kit03-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-17T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit03-s2.jpg"
+  },
+  {
+   "id": "kit03-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-17T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit03-s3.jpg"
+  },
+  {
+   "id": "kit04-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-18T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit04-s1.jpg"
+  },
+  {
+   "id": "kit04-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-18T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit04-s2.jpg"
+  },
+  {
+   "id": "kit04-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-18T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit04-s3.jpg"
+  },
+  {
+   "id": "kit05-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-19T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit05-s1.jpg"
+  },
+  {
+   "id": "kit05-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-19T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit05-s2.jpg"
+  },
+  {
+   "id": "kit05-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-19T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit05-s3.jpg"
+  },
+  {
+   "id": "kit06-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-20T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit06-s1.jpg"
+  },
+  {
+   "id": "kit06-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-20T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit06-s2.jpg"
+  },
+  {
+   "id": "kit06-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-20T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit06-s3.jpg"
+  },
+  {
+   "id": "kit07-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-21T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit07-s1.jpg"
+  },
+  {
+   "id": "kit07-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-21T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit07-s2.jpg"
+  },
+  {
+   "id": "kit07-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-21T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit07-s3.jpg"
+  },
+  {
+   "id": "kit08-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-22T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit08-s1.jpg"
+  },
+  {
+   "id": "kit08-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-22T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit08-s2.jpg"
+  },
+  {
+   "id": "kit08-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-22T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit08-s3.jpg"
+  }
+ ]
+}
