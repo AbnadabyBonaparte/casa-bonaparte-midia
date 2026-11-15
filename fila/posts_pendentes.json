@@ -1,0 +1,19 @@
+{
+ "canal_instagram_id": "6a47cd0f5ab6d2f1069e5761",
+ "organizacao_id": "6a47c88e7add101768cb7749",
+ "itens": [
+  {
+   "id": "kit09-carrossel",
+   "tipo": "carrossel",
+   "dueAt": "2026-11-23T19:00:00-03:00",
+   "texto": "Que a sua terra tenha água em setembro.\n\nO anúncio vende a vista, o pôr do sol, a varanda. Quase nunca fala de vazão, de solo, de cadeia dominial.\n\nO problema é deixar o encanto assinar o contrato.\n\nTerra Soberana — Volume I · Goiás.\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-01.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-02.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-03.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-04.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-05.jpg"
+   ]
+  }
+ ]
+}
