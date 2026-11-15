@@ -133,6 +133,24 @@
    "tipo": "story",
    "dueAt": "2026-11-22T20:10:00-03:00",
    "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit08-s3.jpg"
+  },
+  {
+   "id": "kit09-s1",
+   "tipo": "story",
+   "dueAt": "2026-11-23T20:00:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit09-s1.jpg"
+  },
+  {
+   "id": "kit09-s2",
+   "tipo": "story",
+   "dueAt": "2026-11-23T20:05:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit09-s2.jpg"
+  },
+  {
+   "id": "kit09-s3",
+   "tipo": "story",
+   "dueAt": "2026-11-23T20:10:00-03:00",
+   "image": "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/stories/kit09-s3.jpg"
   }
  ]
 }
