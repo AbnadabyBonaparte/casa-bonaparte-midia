@@ -1,182 +1,212 @@
 [
  {
   "data": "2026-11-23",
-  "hora": "19:00-03:00",
-  "livro": "licenca",
-  "citacao": "Porque é mais fácil acreditar que existe algo contra você… do que perceber que você continua deixando."
+  "tipo": "carrossel",
+  "livro": "terra",
+  "kit": 9,
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-24",
-  "hora": "19:00-03:00",
-  "livro": "heimat",
-  "citacao": "Raiz vira amarra quando você sente que não pode sair."
+  "tipo": "carrossel",
+  "livro": "setlists",
+  "kit": 10,
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-25",
-  "hora": "19:00-03:00",
-  "livro": "prussia",
-  "citacao": "Para o sistema, números são mais precisos que nomes."
+  "tipo": "imagem_unica",
+  "livro": "terra",
+  "citacao": "Sem água garantida na seca, nada mais importa.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-26",
-  "hora": "19:00-03:00",
-  "livro": "oqnc",
-  "citacao": "Você aprende a não pensar no que está dentro."
+  "tipo": "imagem_unica",
+  "livro": "licenca",
+  "citacao": "Porque é mais fácil acreditar que existe algo contra você… do que perceber que você continua deixando.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-27",
-  "hora": "19:00-03:00",
-  "livro": "4051",
-  "citacao": "Lembrei de quem eu era antes de me tornar tão eficiente em sobreviver que esqueci de viver."
+  "tipo": "imagem_unica",
+  "livro": "heimat",
+  "citacao": "Raiz vira amarra quando você sente que não pode sair.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-28",
-  "hora": "19:00-03:00",
-  "livro": "cartografia",
-  "citacao": "O preço da adaptação total é previsibilidade."
+  "tipo": "imagem_unica",
+  "livro": "setlists",
+  "citacao": "Show bom não é sorte. É ordem.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-29",
-  "hora": "19:00-03:00",
-  "livro": "burnout",
-  "citacao": "O corpo acha que você está em perigo constante."
+  "tipo": "imagem_unica",
+  "livro": "prussia",
+  "citacao": "Para o sistema, números são mais precisos que nomes.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-11-30",
-  "hora": "19:00-03:00",
-  "livro": "deus",
-  "citacao": "Sei que pessoas sérias discordam da minha leitura."
+  "tipo": "imagem_unica",
+  "livro": "oqnc",
+  "citacao": "Você aprende a não pensar no que está dentro.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-01",
-  "hora": "19:00-03:00",
-  "livro": "licenca",
-  "citacao": "Mas por dentro eu já tinha visto — e quando você vê, não consegue mais não ver."
+  "tipo": "imagem_unica",
+  "livro": "4051",
+  "citacao": "Lembrei de quem eu era antes de me tornar tão eficiente em sobreviver que esqueci de viver.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-02",
-  "hora": "19:00-03:00",
-  "livro": "heimat",
-  "citacao": "Como se a única prova de maturidade fosse parar."
+  "tipo": "imagem_unica",
+  "livro": "cartografia",
+  "citacao": "O preço da adaptação total é previsibilidade.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-03",
-  "hora": "19:00-03:00",
-  "livro": "prussia",
-  "citacao": "Dentro daquele lugar os dias perdiam o nome, como eu havia perdido o meu."
+  "tipo": "imagem_unica",
+  "livro": "burnout",
+  "citacao": "O corpo acha que você está em perigo constante.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-04",
-  "hora": "19:00-03:00",
-  "livro": "oqnc",
-  "citacao": "Havia parado de esperar que ver algo produzisse alguma coisa além de ter visto."
+  "tipo": "imagem_unica",
+  "livro": "deus",
+  "citacao": "Sei que pessoas sérias discordam da minha leitura.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-05",
-  "hora": "19:00-03:00",
-  "livro": "4051",
-  "citacao": "E no entanto, a privação de sono é tratada como virtude nas culturas produtivas contemporâneas."
+  "tipo": "imagem_unica",
+  "livro": "terra",
+  "citacao": "Terra com água frágil é problema, por mais bonita que seja.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-06",
-  "hora": "19:00-03:00",
-  "livro": "cartografia",
-  "citacao": "Mas se tudo for negociável, a identidade evapora."
+  "tipo": "imagem_unica",
+  "livro": "licenca",
+  "citacao": "Mas por dentro eu já tinha visto — e quando você vê, não consegue mais não ver.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-07",
-  "hora": "19:00-03:00",
-  "livro": "burnout",
-  "citacao": "Estimulante adicional = cortisol adicional = pior."
+  "tipo": "imagem_unica",
+  "livro": "heimat",
+  "citacao": "Como se a única prova de maturidade fosse parar.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-08",
-  "hora": "19:00-03:00",
-  "livro": "deus",
-  "citacao": "Se Deus não se separa, então a salvação não é fuga do mundo."
+  "tipo": "imagem_unica",
+  "livro": "setlists",
+  "citacao": "Você sabe as músicas. O difícil é saber a ordem.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-09",
-  "hora": "19:00-03:00",
-  "livro": "licenca",
-  "citacao": "Onde você realmente está… quando para de repetir?"
+  "tipo": "imagem_unica",
+  "livro": "prussia",
+  "citacao": "Dentro daquele lugar os dias perdiam o nome, como eu havia perdido o meu.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-10",
-  "hora": "19:00-03:00",
-  "livro": "heimat",
-  "citacao": "Mas o sentido era simples: você está aqui, mas não está."
+  "tipo": "imagem_unica",
+  "livro": "oqnc",
+  "citacao": "Havia parado de esperar que ver algo produzisse alguma coisa além de ter visto.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-11",
-  "hora": "19:00-03:00",
-  "livro": "prussia",
-  "citacao": "E pela primeira vez desde que cheguei ali, eu chorei."
+  "tipo": "imagem_unica",
+  "livro": "4051",
+  "citacao": "E no entanto, a privação de sono é tratada como virtude nas culturas produtivas contemporâneas.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-12",
-  "hora": "19:00-03:00",
-  "livro": "oqnc",
-  "citacao": "Sabia que havia algo estranho acontecendo que ninguém estava nomeando."
+  "tipo": "imagem_unica",
+  "livro": "cartografia",
+  "citacao": "Mas se tudo for negociável, a identidade evapora.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-13",
-  "hora": "19:00-03:00",
-  "livro": "4051",
-  "citacao": "Ou como se o cérebro humano tivesse sido calibrado para a Terra."
+  "tipo": "imagem_unica",
+  "livro": "burnout",
+  "citacao": "Não decide no pico emocional.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-14",
-  "hora": "19:00-03:00",
-  "livro": "cartografia",
-  "citacao": "O indivíduo deixa de esperar permissão para agir."
+  "tipo": "imagem_unica",
+  "livro": "deus",
+  "citacao": "Se Deus não se separa, então a salvação não é fuga do mundo.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-15",
-  "hora": "19:00-03:00",
-  "livro": "burnout",
-  "citacao": "Não decide no pico emocional."
+  "tipo": "imagem_unica",
+  "livro": "terra",
+  "citacao": "Encanto demonstrado vira argumento de preço.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-16",
-  "hora": "19:00-03:00",
+  "tipo": "imagem_unica",
   "livro": "licenca",
-  "citacao": "Não levantei imediatamente porque levantar teria normalizado o que não estava normal."
+  "citacao": "As frases chegavam prontas, na ordem certa, com o peso esperado.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-17",
-  "hora": "19:00-03:00",
+  "tipo": "imagem_unica",
   "livro": "heimat",
-  "citacao": "A verdade é que a mentira não cabia mais em mim."
+  "citacao": "Mas o sentido era simples: você está aqui, mas não está.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-18",
-  "hora": "19:00-03:00",
-  "livro": "prussia",
-  "citacao": "Não eram policiais de rua — eram da imigração."
+  "tipo": "imagem_unica",
+  "livro": "setlists",
+  "citacao": "Cada música com tom, groove e o momento certo de entrar.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-19",
-  "hora": "19:00-03:00",
-  "livro": "oqnc",
-  "citacao": "Ninguém disse nada, mas todos sentiram o alívio pequeno de ter um motivo pra parar."
+  "tipo": "imagem_unica",
+  "livro": "prussia",
+  "citacao": "E pela primeira vez desde que cheguei ali, eu chorei.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-20",
-  "hora": "19:00-03:00",
-  "livro": "burnout",
-  "citacao": "Não sabia que sistema nervoso podia desregular."
+  "tipo": "imagem_unica",
+  "livro": "oqnc",
+  "citacao": "Sabia que havia algo estranho acontecendo que ninguém estava nomeando.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-21",
-  "hora": "19:00-03:00",
-  "livro": "licenca",
-  "citacao": "As frases chegavam prontas, na ordem certa, com o peso esperado."
+  "tipo": "imagem_unica",
+  "livro": "burnout",
+  "citacao": "Não sabia que sistema nervoso podia desregular.",
+  "hora": "19:00-03:00"
  },
  {
   "data": "2026-12-22",
-  "hora": "19:00-03:00",
-  "livro": "heimat",
-  "citacao": "Meu problema nunca foi com quem escolhe o chão."
+  "tipo": "imagem_unica",
+  "livro": "terra",
+  "citacao": "Confie no que está registrado.",
+  "hora": "19:00-03:00"
  }
 ]
