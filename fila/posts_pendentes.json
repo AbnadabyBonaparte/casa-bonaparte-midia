@@ -14,6 +14,19 @@
     "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-04.jpg",
     "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit09-05.jpg"
    ]
+  },
+  {
+   "id": "kit10-carrossel",
+   "tipo": "carrossel",
+   "dueAt": "2026-11-24T19:00:00-03:00",
+   "texto": "Show bom não é sorte. É ordem.\n\nVocê sabe as músicas. O difícil é saber a ordem.\n\nStageSet Pro: setlists com engenharia de palco. 4 horas, 5 atos. Cada música com tom, groove e o momento certo de entrar.\n\nPeça pelo WhatsApp. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-01.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-02.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-03.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-04.jpg",
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-05.jpg"
+   ]
   }
  ]
 }
