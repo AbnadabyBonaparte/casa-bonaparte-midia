@@ -27,6 +27,258 @@
     "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-04.jpg",
     "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/campanha/kit10-05.jpg"
    ]
+  },
+  {
+   "id": "post01-terra",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-11-25T19:00:00-03:00",
+   "texto": "Sem água garantida na seca, nada mais importa.\n\nTerra Soberana, para quem está procurando terra com os olhos abertos.\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post01_terra.jpg"
+   ]
+  },
+  {
+   "id": "post02-licenca",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-11-26T19:00:00-03:00",
+   "texto": "Porque é mais fácil acreditar que existe algo contra você… do que perceber que você continua deixando.\n\nLicença, um livro sobre o que a gente aprende a não ver.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post02_licenca.jpg"
+   ]
+  },
+  {
+   "id": "post03-heimat",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-11-27T19:00:00-03:00",
+   "texto": "Raiz vira amarra quando você sente que não pode sair.\n\nHEIMAT, um livro sobre raiz, pertencimento e o preço de ficar.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post03_heimat.jpg"
+   ]
+  },
+  {
+   "id": "post04-setlists",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-11-28T19:00:00-03:00",
+   "texto": "Show bom não é sorte. É ordem.\n\nStageSet Pro: setlists com ordem, tom e groove para o seu show.\n\nPeça pelo WhatsApp. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post04_setlists.jpg"
+   ]
+  },
+  {
+   "id": "post05-prussia",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-11-29T19:00:00-03:00",
+   "texto": "Para o sistema, números são mais precisos que nomes.\n\nFilhos da Prússia, um livro sobre linhagem e o que ela cala.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post05_prussia.jpg"
+   ]
+  },
+  {
+   "id": "post06-oqnc",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-11-30T19:00:00-03:00",
+   "texto": "Você aprende a não pensar no que está dentro.\n\nO Que Não Começou, um livro sobre o que ficou por dizer.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post06_oqnc.jpg"
+   ]
+  },
+  {
+   "id": "post07-4051",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-01T19:00:00-03:00",
+   "texto": "Lembrei de quem eu era antes de me tornar tão eficiente em sobreviver que esqueci de viver.\n\n4051, ficção sobre o que sobra de nós quando só sobrevivemos.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post07_4051.jpg"
+   ]
+  },
+  {
+   "id": "post08-cartografia",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-02T19:00:00-03:00",
+   "texto": "O preço da adaptação total é previsibilidade.\n\nCartografia da Soberania Interior, um ensaio sobre viver no automático.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post08_cartografia.jpg"
+   ]
+  },
+  {
+   "id": "post09-burnout",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-03T19:00:00-03:00",
+   "texto": "O corpo acha que você está em perigo constante.\n\nCura Natural para Burnout, um livro sobre o corpo que avisa.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post09_burnout.jpg"
+   ]
+  },
+  {
+   "id": "post10-deus",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-04T19:00:00-03:00",
+   "texto": "Sei que pessoas sérias discordam da minha leitura.\n\nO Deus Que Não Se Separa, um livro de leitura pessoal, não de doutrina.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post10_deus.jpg"
+   ]
+  },
+  {
+   "id": "post11-terra",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-05T19:00:00-03:00",
+   "texto": "Terra com água frágil é problema, por mais bonita que seja.\n\nTerra Soberana, para quem está procurando terra com os olhos abertos.\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post11_terra.jpg"
+   ]
+  },
+  {
+   "id": "post12-licenca",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-06T19:00:00-03:00",
+   "texto": "Mas por dentro eu já tinha visto — e quando você vê, não consegue mais não ver.\n\nLicença, um livro sobre o que a gente aprende a não ver.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post12_licenca.jpg"
+   ]
+  },
+  {
+   "id": "post13-heimat",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-07T19:00:00-03:00",
+   "texto": "Como se a única prova de maturidade fosse parar.\n\nHEIMAT, um livro sobre raiz, pertencimento e o preço de ficar.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post13_heimat.jpg"
+   ]
+  },
+  {
+   "id": "post14-setlists",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-08T19:00:00-03:00",
+   "texto": "Você sabe as músicas. O difícil é saber a ordem.\n\nStageSet Pro: setlists com ordem, tom e groove para o seu show.\n\nPeça pelo WhatsApp. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post14_setlists.jpg"
+   ]
+  },
+  {
+   "id": "post15-prussia",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-09T19:00:00-03:00",
+   "texto": "Dentro daquele lugar os dias perdiam o nome, como eu havia perdido o meu.\n\nFilhos da Prússia, um livro sobre linhagem e o que ela cala.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post15_prussia.jpg"
+   ]
+  },
+  {
+   "id": "post16-oqnc",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-10T19:00:00-03:00",
+   "texto": "Havia parado de esperar que ver algo produzisse alguma coisa além de ter visto.\n\nO Que Não Começou, um livro sobre o que ficou por dizer.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post16_oqnc.jpg"
+   ]
+  },
+  {
+   "id": "post17-4051",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-11T19:00:00-03:00",
+   "texto": "E no entanto, a privação de sono é tratada como virtude nas culturas produtivas contemporâneas.\n\n4051, ficção sobre o que sobra de nós quando só sobrevivemos.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post17_4051.jpg"
+   ]
+  },
+  {
+   "id": "post18-cartografia",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-12T19:00:00-03:00",
+   "texto": "Mas se tudo for negociável, a identidade evapora.\n\nCartografia da Soberania Interior, um ensaio sobre viver no automático.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post18_cartografia.jpg"
+   ]
+  },
+  {
+   "id": "post19-burnout",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-13T19:00:00-03:00",
+   "texto": "Não decide no pico emocional.\n\nCura Natural para Burnout, um livro sobre o corpo que avisa.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post19_burnout.jpg"
+   ]
+  },
+  {
+   "id": "post20-deus",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-14T19:00:00-03:00",
+   "texto": "Se Deus não se separa, então a salvação não é fuga do mundo.\n\nO Deus Que Não Se Separa, um livro de leitura pessoal, não de doutrina.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post20_deus.jpg"
+   ]
+  },
+  {
+   "id": "post21-terra",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-15T19:00:00-03:00",
+   "texto": "Encanto demonstrado vira argumento de preço.\n\nTerra Soberana, para quem está procurando terra com os olhos abertos.\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post21_terra.jpg"
+   ]
+  },
+  {
+   "id": "post22-licenca",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-16T19:00:00-03:00",
+   "texto": "As frases chegavam prontas, na ordem certa, com o peso esperado.\n\nLicença, um livro sobre o que a gente aprende a não ver.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post22_licenca.jpg"
+   ]
+  },
+  {
+   "id": "post23-heimat",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-17T19:00:00-03:00",
+   "texto": "Mas o sentido era simples: você está aqui, mas não está.\n\nHEIMAT, um livro sobre raiz, pertencimento e o preço de ficar.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post23_heimat.jpg"
+   ]
+  },
+  {
+   "id": "post24-setlists",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-18T19:00:00-03:00",
+   "texto": "Cada música com tom, groove e o momento certo de entrar.\n\nStageSet Pro: setlists com ordem, tom e groove para o seu show.\n\nPeça pelo WhatsApp. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post24_setlists.jpg"
+   ]
+  },
+  {
+   "id": "post25-prussia",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-19T19:00:00-03:00",
+   "texto": "E pela primeira vez desde que cheguei ali, eu chorei.\n\nFilhos da Prússia, um livro sobre linhagem e o que ela cala.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post25_prussia.jpg"
+   ]
+  },
+  {
+   "id": "post26-oqnc",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-20T19:00:00-03:00",
+   "texto": "Sabia que havia algo estranho acontecendo que ninguém estava nomeando.\n\nO Que Não Começou, um livro sobre o que ficou por dizer.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post26_oqnc.jpg"
+   ]
+  },
+  {
+   "id": "post27-burnout",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-21T19:00:00-03:00",
+   "texto": "Não sabia que sistema nervoso podia desregular.\n\nCura Natural para Burnout, um livro sobre o corpo que avisa.\n\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post27_burnout.jpg"
+   ]
+  },
+  {
+   "id": "post28-terra",
+   "tipo": "imagem_unica",
+   "dueAt": "2026-12-22T19:00:00-03:00",
+   "texto": "Confie no que está registrado.\n\nTerra Soberana, para quem está procurando terra com os olhos abertos.\nNa Amazon. Link na bio.",
+   "images": [
+    "https://raw.githubusercontent.com/AbnadabyBonaparte/casa-bonaparte-midia/main/posts/post28_terra.jpg"
+   ]
   }
  ]
 }
